@@ -1,4 +1,12 @@
-I am a postdoc working at <img src='./images/tiktok.png' style='width: 6em;'> now in London. 
+I am a postdoctoral researcher at the Data Science Institute (DSI) and Department of Brain Sciences, Imperial College London, specialising in generative AI for medical imaging. My research focuses on developing deep generative models for cardiac diagnostics, including digital twins for personalised healthcare.
+
+I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. I have collaborated closely with Daniel Rueckert and Wenjia Bai.
+
+I have been awarded the Dame Julia Higgins Fund (as PI and Co-PI) and recently selected as a DAAD AInet Fellow for AI in Science.
+
+My research interests include medical image analysis, generative models, and data augmentation. I have published over 30 papers <a href='https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in leading journals and conferences, such as MICCAI, IEEE TMI, and Nature Cardiovascular Research. You can find my publications on Google Scholar.
+
+<!-- I am a postdoc working at <img src='./images/tiktok.png' style='width: 6em;'> now in London. 
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
@@ -8,4 +16,4 @@ I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
-To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
+To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee. -->
