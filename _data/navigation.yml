@@ -12,10 +12,10 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  # - title: "Fundings"
-  #   url: "/#-fundings"
   - title: "Fundings"
-    url: "/#-honors-and-awards"
+    url: "/#-fundings"
+  # - title: "Fundings"
+  #   url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
