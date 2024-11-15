@@ -1,6 +1,8 @@
 # 🔥 News
+- *2024.10*: Selected as a **DAAD AInet Fellow** for the **Postdoc-NeT-AI 11/2024 Virtual Networking Week** on AI for Science
+- *2024.10*: Invitated talk at Fudan University
+- *2024.10*: Received funding as **PI** from the **Dame Julia Higgins Fund** (£2,900)
+- *2024.10*: Received funding as **Co-PI** from the **Dame Julia Higgins Fund** (£1,600)
 - *2024.09*: One paper is released at [arxiv](https://arxiv.org/abs/2409.13825)
 - *2024.09*: 🎉 One paper is accepted by *Nature Cardiovascular Research*
-<!-- - *2024.09*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2022.10*: I join BioMedIA <img src='./images/Biomedia_green_L1.png' style='width: 6em;'> , Imperial College London as a research associate in UK!-->
+- *2022.10*: I join BioMedIA <img src='./images/Biomedia_green_L1.png' style='width: 6em;'> , Imperial College London as a research associate in UK!

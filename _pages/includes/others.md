@@ -5,7 +5,10 @@
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
 
 # 💬 Invited Talks
-- *2024.10*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+
+- *2024.10*, London Symposium 2024, IDEA Lab, Friedrich-Alexander University Erlangen-Nuremberg: **Personalised Generative Models for Unveiling Normal Heart Dynamics** \| [\[Video\]](#)
+- *2024.07*, Shenzhen University: **Deep Generative Modelling for Cardiac Anatomy** \| [\[Slides\]](#)
+- *2023.09*, 1st CCF Digital Medicine Symposium (DMS), Suzhou: **Application and Optimization of Generative AI in Medical Multimodal Data**
+- *2020.05*, IEEE ISCAS (Virtual Talk): **Breast DCE-MRI Radiomics: A Robust Computer-Aided System Based on Reproducible BI-RADS Features**
+- *2019.07*, IEEE EMBC, Berlin: **Breast Calcification Detection Based on Radiofrequency Signals by Quantitative Ultrasound Multi-Parameter Fusion**
+- *2018.09*, STACOM Workshop, MICCAI, Granada: **Fully Automated Left Atrium Cavity Segmentation from 3D GE-MRI**
