@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.11*: Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 6em;'>  on December 20th, 2024.
+- *2024.11*: Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 6em;'>  on December 19th, 2024.
 - *2024.10*: Selected as a **DAAD AInet Fellow** for the **Postdoc-NeT-AI 11/2024 Virtual Networking Week** on AI for Science
 - *2024.10*: Invitated talk at Fudan University
 - *2024.10*: Received funding as **PI** from the **Dame Julia Higgins Fund** 
