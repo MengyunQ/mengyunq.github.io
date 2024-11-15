@@ -18,5 +18,5 @@ main:
   - title: "Fundings"
     url: "/#-fundings"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
