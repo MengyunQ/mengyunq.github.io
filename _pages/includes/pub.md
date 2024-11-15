@@ -3,7 +3,12 @@
 <!-- ## 🎙 Speech Synthesis -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/paper/meshheart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">Arxiv</div>
+    <img src='images/paper/meshheart.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [A Personalised 3D+ t Mesh Generative Model for Unveiling Normal Heart Dynamics](https://arxiv.org/abs/2409.13825) \\
@@ -17,6 +22,41 @@
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Nature Cardiovascular Research</div>
+      <img src='images/paper/trabeculation.png' alt="Genetic and Phenotypic Architecture" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Genetic and Phenotypic Architecture of Human Myocardial Trabeculation](https://www.medrxiv.org/content/10.1101/2024.03.26.24304726v1) \\
+  Kathryn A. McGurk, **Mengyun Qiao**, et al.
+
+  - Investigated genetic factors influencing myocardial trabeculation patterns.
+  - Identified novel phenotypic correlations linked to cardiac health indicators.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TMI</div>
+      <img src='images/paper/cheart.png' alt="CHeart Model" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [CHeart: A Conditional Spatio-Temporal Generative Model for Cardiac Anatomy](https://ieeexplore.ieee.org/abstract/document/10315018/) \\
+  **Mengyun Qiao**, Shuo Wang, Huaqi Qiu, Antonio de Marvao, Declan P. O'Regan, Daniel Rueckert, Wenjia Bai
+
+  - Introduced a conditional generative model to capture spatio-temporal variations in cardiac anatomy.
+  - Achieved significant improvements in cardiac disease prediction over existing methods.
+
+  </div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
