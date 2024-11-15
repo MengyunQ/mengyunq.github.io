@@ -1,6 +1,6 @@
 I am a postdoctoral researcher at the Data Science Institute (DSI) and Department of Brain Sciences, Imperial College London, specialising in generative AI for medical imaging. My research focuses on developing deep generative models for cardiac diagnostics, including digital twins for personalised healthcare.
 
-I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. I have collaborated closely with Daniel Rueckert and Wenjia Bai.
+I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. 
 
 I have been awarded the Dame Julia Higgins Fund (as PI and Co-PI) and recently selected as a DAAD AInet Fellow for AI in Science.
 
