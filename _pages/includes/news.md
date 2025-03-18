@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.03*: 🎉 One paper is accepted by *Nature Machine Intelligence*
+- *2024.12*: Awarded **Imperial College Research Fellowship**
 - *2024.11*: Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 2em;'>  on December 19th, 2024.
 - *2024.10*: Selected as a **DAAD AInet Fellow** for the **Postdoc-NeT-AI 11/2024 Virtual Networking Week** on AI for Science
 - *2024.10*: Invitated talk at Fudan University

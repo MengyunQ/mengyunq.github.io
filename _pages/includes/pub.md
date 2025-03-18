@@ -5,7 +5,7 @@
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <div class="badge">Arxiv</div>
+    <div class="badge">Nature Machine Intelligence</div>
     <img src='images/paper/meshheart.png' alt="sym" width="100%">
     </div>
   </div>
