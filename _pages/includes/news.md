@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.03*: Invited as a Visiting Researcher at **Alan Turing Institute**
 - *2025.03*: 🎉 One paper is accepted by *Nature Machine Intelligence*
 - *2024.12*: Awarded **Imperial College Research Fellowship**
 - *2024.11*: Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 2em;'>  on December 19th, 2024.
