@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: 🎉 One paper is early accepted by *MICCAI 2025*
 - *2025.03*: Invited as a Visiting Researcher at **Alan Turing Institute**
 - *2025.03*: 🎉 One paper is accepted by *Nature Machine Intelligence*
 - *2024.12*: Awarded **Imperial College Research Fellowship**
