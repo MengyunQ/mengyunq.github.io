@@ -1,10 +1,10 @@
-I am a postdoctoral researcher at the Data Science Institute (DSI) and Department of Brain Sciences, Imperial College London, specialising in generative AI for medical imaging. My research focuses on developing deep generative models for cardiac diagnostics, including digital twins for personalised healthcare.
+I am an Imperial College Research Fellow jointly appointed at the Data Science Institute (DSI) and the Department of Brain Sciences, Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a current focus on deep generative models for cardiac diagnostics and digital twins for personalised healthcare.
 
 I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. 
 
-I have been awarded the Dame Julia Higgins Fund (as PI and Co-PI) and recently selected as a DAAD AInet Fellow for AI in Science.
+I have received several awards, including the Imperial College Research Fellowship, the Dame Julia Higgins Fund (as both PI and Co-PI), and the DAAD AInet Fellowship for AI in Science.
 
-My research interests include medical image analysis, generative models, and data augmentation. I have published over 30 papers <a href='https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in leading journals and conferences, such as MICCAI, IEEE TMI, and Nature Cardiovascular Research. You can find my publications on Google Scholar.
+My research interests include medical image analysis, deep generative models, and data-centric AI for clinically meaningful and interpretable solutions. I have published over 30 papers <a href='https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in leading journals and conferences, such as Nature Machine Intellience, Nature Cardiovascular Research, IEEE TMI, and MICCAI. You can find my publications on Google Scholar.
 
 <!-- I am a postdoc working at <img src='./images/tiktok.png' style='width: 6em;'> now in London. 
 
