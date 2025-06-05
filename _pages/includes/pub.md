@@ -11,7 +11,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-[A Personalised 3D+ t Mesh Generative Model for Unveiling Normal Heart Dynamics](https://arxiv.org/abs/2409.13825) \\
+[A personalized Time-resolved 3D Mesh Generative Model for Unveiling Normal Heart Dynamics](https://www.nature.com/articles/s42256-025-01035-5) \\
 **Mengyun Qiao**, Kathryn A McGurk, Shuo Wang, Paul M. Matthews, Declan P O Regan, Wenjia Bai
 
 <!-- [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
