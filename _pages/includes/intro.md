@@ -1,4 +1,4 @@
-I am an Imperial College Research Fellow jointly appointed at the Data Science Institute (DSI) and the Department of Brain Sciences, Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a current focus on deep generative models for cardiac diagnostics and digital twins for personalised healthcare.
+I am a Research Associate jointly appointed at the Data Science Institute (DSI) and the Department of Brain Sciences, Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a current focus on deep generative models for cardiac diagnostics and digital twins for personalised healthcare.
 
 I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. 
 
