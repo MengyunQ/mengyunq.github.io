@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengyun Qiao"
-description              : "Research Associate in Imperial College London | AI Researcher in Medical Imaging | Specialising in Generative Models for Healthcare"
+description              : "Lecturer in Machine Learning for Healthcare @ UCL Founder of LUMA Lab · Generative Modelling · Multi-agent Reasoning"
 repository               : "mengyunq/mengyunq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :
 author:
   name             : "Mengyun Qiao"
   avatar           : "images/my_profile.jpg"
-  bio              : "Imperial College London"
+  bio              : "University College London"
   location         : "United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en"
-  email            : "m.qiao21@imperial.ac.uk"
+  email            : "m.qiao@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
