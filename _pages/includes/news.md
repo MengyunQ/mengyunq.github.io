@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: Joined UCL as a Lecturer
 - *2025.06*: 🎉 Three papers are early accepted by *MICCAI 2025*
 - *2025.03*: Invited as a Visiting Researcher at **Alan Turing Institute**
 - *2025.03*: 🎉 One paper is accepted by *Nature Machine Intelligence*
