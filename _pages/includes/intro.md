@@ -1,10 +1,13 @@
-I am a Research Associate jointly appointed at the Data Science Institute (DSI) and the Department of Brain Sciences, Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a current focus on deep generative models for cardiac diagnostics and digital twins for personalised healthcare.
+I am a Lecturer at University College London and the founder of LUMA Lab, where we explore generative modelling, multi-agent reasoning, and data-centric methods for personalised and interpretable healthcare. Visit [LUMA Lab](https://luma-lab.ai) to learn more about our research.
 
-I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours. 
+Before joining UCL, I was a Research Associate jointly appointed at the Data Science Institute and the Department of Brain Sciences at Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a focus on deep generative models for cardiac diagnostics and digital twins for personalised health.
 
-I have received several awards, including the Imperial College Research Fellowship, the Dame Julia Higgins Fund (as both PI and Co-PI), and the DAAD AInet Fellowship for AI in Science.
+I completed my DPhil at Fudan University, in a joint programme with Imperial College London, where my thesis on breast cancer diagnostics received top honours.
 
-My research interests include medical image analysis, deep generative models, and data-centric AI for clinically meaningful and interpretable solutions. I have published over 30 papers <a href='https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in leading journals and conferences, such as Nature Machine Intellience, Nature Cardiovascular Research, IEEE TMI, and MICCAI. You can find my publications on Google Scholar.
+I have received several awards and fellowships, including the Imperial College Research Fellowship, the Dame Julia Higgins Fund (as both PI and Co-PI), and the DAAD AInet Fellowship for AI in Science.
+
+My research interests include medical image analysis, generative modelling, and clinically grounded machine learning. I have published over 30 papers in venues such as Nature Machine Intelligence, Nature Cardiovascular Research, IEEE TMI, and MICCAI. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=en).
+
 
 <!-- I am a postdoc working at <img src='./images/tiktok.png' style='width: 6em;'> now in London. 
 
