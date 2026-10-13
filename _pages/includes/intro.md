@@ -1,3 +1,5 @@
+# About Me
+
 I am a Lecturer in the Department of Mechanical Engineering at University College London and the founder of LUMA Lab, where we explore generative modelling, multi-agent reasoning, and data-centric methods for personalised and interpretable healthcare. Visit [LUMA Lab](https://luma-lab.ai) to learn more about our research. I am also a Visiting Researcher at The Alan Turing Institute and at FAU Erlangen-Nürnberg.
 
 Before joining UCL, I was a Research Associate jointly appointed at the Data Science Institute and the Department of Brain Sciences at Imperial College London. My research lies at the intersection of generative AI and medical imaging, with a focus on deep generative models for cardiac diagnostics and digital twins for personalised health.

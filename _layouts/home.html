@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="home">
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+    {% include hero.html %}
+
+    <main id="home-main" class="home-main" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="home-footer">
+      © {{ site.time | date: "%Y" }} {{ site.author.name }} · <a href="https://luma-lab.ai">LUMA Lab</a> · University College London
+    </footer>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

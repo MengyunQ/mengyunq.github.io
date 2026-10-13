@@ -1,0 +1,30 @@
+{% assign author = site.author %}
+<header class="hero">
+  <div class="hero__inner">
+    <img class="hero__avatar" src="{{ author.avatar }}" alt="{{ author.name }}">
+    <div class="hero__text">
+      <p class="hero__eyebrow">University College London · LUMA Lab</p>
+      <p class="hero__name">{{ author.name }}</p>
+      <p class="hero__role">Lecturer in Data-driven Biomechanical Modelling<br>Department of Mechanical Engineering, UCL</p>
+      <ul class="hero__tags">
+        <li>Generative Modelling</li>
+        <li>Multi-agent Reasoning</li>
+        <li>Cardiac Digital Twins</li>
+        <li>Medical Image Analysis</li>
+      </ul>
+      <div class="hero__links">
+        <a class="hero__btn hero__btn--primary" href="https://luma-lab.ai"><i class="fas fa-flask" aria-hidden="true"></i> LUMA Lab</a>
+        <a class="hero__btn" href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+        <a class="hero__btn" href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
+        <a class="hero__btn" href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+        <a class="hero__btn" href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+      </div>
+    </div>
+  </div>
+  <div class="hero__stats">
+    <div><strong>30+</strong><span>Publications</span></div>
+    <div><strong id="total_cit">1,600+</strong><span>Citations</span></div>
+    <div><strong>MICCAI 2026</strong><span>Area Chair</span></div>
+    <div><strong>3</strong><span>Keynotes in 2026</span></div>
+  </div>
+</header>

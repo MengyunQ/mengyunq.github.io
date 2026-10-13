@@ -1,22 +1,3 @@
-
-# Education
-
-<div class='timeline' markdown='1'>
-
-- *2017–2022* **DPhil in Biomedical Engineering**, Fudan University, Shanghai, China  
-  Awarded the best thesis of the year. Developed intelligent diagnostic algorithms for breast cancer using multimodal medical images. Published five peer-reviewed papers and presented at major conferences.
-
-- *2021–2022* **Joint PhD Research**, Imperial College London, BioMedIA Group, Department of Brain Sciences  
-  Conducted collaborative research focusing on advanced machine learning and generative models for medical imaging.
-
-- *2017–2017* **Visiting Researcher**, Leiden University Medical Center, Department of Radiology, The Netherlands  
-  Investigated cardiac motion tracking methods, achieving significant accuracy improvements using deep learning techniques.
-
-- *2013–2017* **BEng in Electronic Engineering**, Fudan University, Shanghai, China  
-  Graduated with high distinction. Developed a breast ultrasound image analysis system to improve diagnostic efficiency. Awarded best undergraduate thesis of the year.
-
-</div>
-
 # Invited Talks
 
 <div class='timeline' markdown='1'>
@@ -45,18 +26,5 @@
   <span class='meta'>IEEE EMBC, Berlin</span>
 - *2018.09* **Fully Automated Left Atrium Cavity Segmentation from 3D GE-MRI**  
   <span class='meta'>STACOM Workshop, MICCAI, Granada</span>
-
-</div>
-
-# Academic Service
-
-<div class='service' markdown='1'>
-
-- **Area Chair**: MICCAI 2026, IEEE EMBC 2024
-- **Workshop Organiser**: [2nd Agentic AI for Medicine (AgenticMed) Workshop](https://agentic-ai-for-medicine.github.io/agentic-ai-for-medicine/), MICCAI 2026
-- **Grant Reviewer**: DAAD Postdoc-NeT-AI Programme (2026)
-- **Journal Reviewer**: IEEE TMI, IEEE TBME, IEEE JBHI, Medical Image Analysis, MELBA, Scientific Reports, ACM Computing Surveys
-- **Conference Reviewer**: MICCAI (2022–2025), AAAI
-- **Organiser**: Imperial Data Science Summer & Winter Schools (2023–2025)
 
 </div>

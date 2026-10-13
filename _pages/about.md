@@ -2,23 +2,47 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+layout: home
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<section class="card" markdown="1">
 {% include_relative includes/intro.md %}
+</section>
 
-<!-- If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io). -->
-
+<section class="card" markdown="1">
 {% include_relative includes/news.md %}
+</section>
 
+<section class="card" markdown="1">
 {% include_relative includes/pub.md %}
+</section>
 
+<section class="card" markdown="1">
 {% include_relative includes/fundings.md %}
+</section>
 
-{% include_relative includes/others.md %}
+<div class="card-grid">
+<section class="card" markdown="1">
+{% include_relative includes/honors.md %}
+</section>
 
+<section class="card" markdown="1">
+{% include_relative includes/service.md %}
+</section>
+</div>
+
+<section class="card" markdown="1">
+{% include_relative includes/talks.md %}
+</section>
+
+<section class="card" markdown="1">
+{% include_relative includes/education.md %}
+</section>
+
+<section class="card" markdown="1">
 {% include_relative includes/teaching.md %}
+</section>
