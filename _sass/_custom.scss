@@ -1,0 +1,241 @@
+/* ==========================================================================
+   Site customisations (layered on top of the Minimal Mistakes base theme)
+   ========================================================================== */
+
+$accent        : #1d4f91;
+$accent-soft   : #e8eef7;
+$ink           : #1f2933;
+$body-ink      : #3e4c59;
+$muted         : #7b8794;
+$hairline      : #e4e7eb;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: $body-ink;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: $accent; }
+a:hover { color: darken($accent, 12%); }
+a:visited { color: $accent; }
+
+/* ----- masthead ----- */
+.masthead {
+  border-bottom: 1px solid $hairline;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: saturate(180%) blur(8px);
+}
+.greedy-nav {
+  background: transparent;
+  a {
+    color: $body-ink;
+    font-weight: 500;
+    &:hover { color: $accent; }
+  }
+  .visible-links a:before { background: $accent; }
+  button {
+    background-color: transparent;
+    .navicon,
+    .navicon:before,
+    .navicon:after { background: $ink; height: 2px; }
+    .navicon:before { top: -7px; }
+    .navicon:after { top: 7px; }
+  }
+  button.close {
+    .navicon { background: transparent; }
+    .navicon:before,
+    .navicon:after { top: 0; }
+  }
+  .hidden-links {
+    border-color: $hairline;
+    border-radius: 6px;
+    box-shadow: 0 6px 20px rgba(31, 41, 51, 0.12);
+  }
+  .masthead__menu-home-item a {
+    color: $ink;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+}
+
+/* ----- sidebar ----- */
+.author__name { color: $ink; font-weight: 700; }
+.author__bio { color: $muted; }
+.author__urls {
+  li { color: $body-ink; }
+  a { color: $body-ink; &:hover { color: $accent; } }
+  li:first-child div { color: $muted; font-size: 0.95em; line-height: 1.5; }
+}
+.author__avatar img { box-shadow: 0 2px 10px rgba(31, 41, 51, 0.12); }
+
+/* ----- content typography ----- */
+.page__content {
+  max-width: 58rem;
+  font-size: 1em;
+  line-height: 1.7;
+
+  p { margin: 0 0 1em; }
+
+  h1 {
+    margin: 2.6em 0 0.9em;
+    padding-bottom: 0.35em;
+    font-size: 1.45em;
+    font-weight: 700;
+    color: $ink;
+    border-bottom: 1px solid $hairline;
+    position: relative;
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 2.5em;
+      height: 2px;
+      background: $accent;
+    }
+  }
+  h2 {
+    margin: 1.8em 0 0.7em;
+    font-size: 1.1em;
+    font-weight: 700;
+    color: $ink;
+  }
+  h4 { margin: 1.4em 0 0.4em; color: $ink; }
+
+  ul { margin-bottom: 1em; }
+  li { margin-bottom: 0.35em; }
+}
+
+/* ----- dated lists (news, funding, talks, education ...) ----- */
+.timeline {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  li {
+    position: relative;
+    padding: 0.3em 0 0.3em 7.5em;
+    margin: 0;
+    border-bottom: 1px dashed $hairline;
+    &:last-child { border-bottom: 0; }
+
+    > em:first-child,
+    > p:first-child > em:first-child {
+      position: absolute;
+      left: 0;
+      width: 7em;
+      font-style: normal;
+      font-size: 0.88em;
+      line-height: 1.95;
+      color: $muted;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+    p { margin: 0; }
+  }
+  .meta {
+    display: block;
+    color: $muted;
+    font-size: 0.92em;
+  }
+
+  @include breakpoint(max-width $small) {
+    li { padding-left: 0; }
+    li > em:first-child,
+    li > p:first-child > em:first-child {
+      position: static;
+      display: block;
+      width: auto;
+      line-height: 1.6;
+    }
+  }
+}
+
+/* ----- collapsible blocks ----- */
+details.more {
+  margin: 0.6em 0 1em;
+  summary {
+    display: inline-block;
+    cursor: pointer;
+    color: $accent;
+    font-weight: 600;
+    font-size: 0.95em;
+    padding: 0.3em 0.9em;
+    border: 1px solid $accent-soft;
+    border-radius: 999px;
+    background: $accent-soft;
+    list-style: none;
+    &::-webkit-details-marker { display: none; }
+    &:after { content: ' ▾'; }
+    &:hover { border-color: $accent; }
+  }
+  &[open] summary { margin-bottom: 0.8em; }
+  &[open] summary:after { content: ' ▴'; }
+}
+
+/* ----- academic service ----- */
+.service {
+  ul { list-style: none; margin-left: 0; padding-left: 0; }
+  li {
+    padding: 0.3em 0;
+    border-bottom: 1px dashed $hairline;
+    &:last-child { border-bottom: 0; }
+  }
+  strong { color: $ink; }
+}
+
+/* ----- publications ----- */
+.page__content .paper-box {
+  align-items: flex-start;
+  border-bottom: 1px solid $hairline;
+  padding: 1.6em 0;
+
+  .paper-box-image img {
+    border-radius: 6px;
+    box-shadow: none;
+    border: 1px solid $hairline;
+  }
+  .paper-box-text {
+    line-height: 1.6;
+    ul { margin: 0.6em 0 0; }
+    li { color: $body-ink; font-size: 0.95em; margin-bottom: 0.2em; }
+  }
+  .paper-box-text > p:first-child > a:first-child,
+  .paper-box-text > p:first-child > a:first-of-type {
+    font-weight: 700;
+  }
+}
+.page__content .badge {
+  border-radius: 3px;
+  background-color: $accent;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  padding: 0.1em 0.7em;
+}
+
+.pub-list {
+  ul { list-style: none; margin-left: 0; padding-left: 0; }
+  li {
+    padding: 0.55em 0;
+    border-bottom: 1px dashed $hairline;
+    line-height: 1.6;
+    &:last-child { border-bottom: 0; }
+  }
+  li > code:first-child,
+  li > p:first-child > code:first-child {
+    display: inline-block;
+    min-width: 7.5em;
+    margin-right: 0.5em;
+    padding: 0.05em 0.6em;
+    font-family: inherit;
+    font-size: 0.8em;
+    font-weight: 700;
+    text-align: center;
+    color: $accent;
+    background: $accent-soft;
+    border-radius: 3px;
+    vertical-align: 0.1em;
+  }
+  a { font-weight: 600; }
+}

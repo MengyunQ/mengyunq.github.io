@@ -1,23 +1,37 @@
-# 🔥 News
-- *2026.07*: Invited keynote at the **AIBE Conference 2026**, FAU Erlangen-Nürnberg
-- *2026.07*: Awarded the **UCL–Fudan Strategic Partner Fund 2026/27** as PI
-- *2026.06*: 🎉 [CPAgents](https://arxiv.org/abs/2606.28179) is accepted by *MICCAI 2026*
-- *2026.06*: Keynote speaker at the **Oxford Computer Science Conference** with OxWoCS, University of Oxford
-- *2026.06*: Started a **DAAD Postdoc-NeT-AI** research stay at FAU Erlangen-Nürnberg (Jun–Sep 2026)
-- *2026.06*: Keynote at [**BAIOSPHERE Medical 2026**](https://baiomed.fau.de/baiosphere-medical-2026/), FAU Erlangen-Nürnberg
-- *2026*: Serving as **Area Chair for MICCAI 2026** and co-organising the [**2nd Agentic AI for Medicine (AgenticMed) Workshop**](https://agentic-ai-for-medicine.github.io/agentic-ai-for-medicine/) at MICCAI 2026
-- *2025.10*: Invited lecture at Shenzhen University: *Medical Foundation Models and Generalist AI for Healthcare*
-- *2025.08*: Joined UCL Mechanical Engineering as a Lecturer and founded [LUMA Lab](https://luma-lab.ai)
-- *2025.06*: 🎉 Three papers are early accepted by *MICCAI 2025*
-- *2025.03*: Invited as a Visiting Researcher at **Alan Turing Institute**
-- *2025.05*: MeshHeart featured in [Imperial College London news](https://www.imperial.ac.uk/news/264275/ai-model-generates-personalised-heart-animations/)
-- *2025.03*: 🎉 One paper is accepted by *Nature Machine Intelligence*
-- *2024.12*: Awarded **Imperial College Research Fellowship**
-- *2024.11*: Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 2em;'>  on December 19th, 2024.
-- *2024.10*: Selected as a **DAAD AInet Fellow** for the **Postdoc-NeT-AI 11/2024 Virtual Networking Week** on AI for Science
-- *2024.10*: Invited talk at Fudan University
-- *2024.10*: Received funding as **PI** from the **Dame Julia Higgins Fund** 
-- *2024.10*: Received funding as **Co-PI** from the **Dame Julia Higgins Fund**
-- *2024.09*: One paper is released at [arxiv](https://arxiv.org/abs/2409.13825)
-- *2024.09*: 🎉 One paper is accepted by *Nature Cardiovascular Research*
-- *2022.10*: Joined BioMedIA <img src='./images/Biomedia_green_L1.png' style='width: 6em;'> , Imperial College London as a research associate in UK!
+# News
+
+<div class='timeline' markdown='1'>
+
+- *2026.07* Invited keynote at the **AIBE Conference 2026**, FAU Erlangen-Nürnberg
+- *2026.07* Awarded the **UCL–Fudan Strategic Partner Fund 2026/27** as PI
+- *2026.06* 🎉 [CPAgents](https://arxiv.org/abs/2606.28179) is accepted by *MICCAI 2026*
+- *2026.06* Keynote speaker at the **Oxford Computer Science Conference** with OxWoCS, University of Oxford
+- *2026.06* Started a **DAAD Postdoc-NeT-AI** research stay at FAU Erlangen-Nürnberg (Jun–Sep 2026)
+- *2026.06* Keynote at [**BAIOSPHERE Medical 2026**](https://baiomed.fau.de/baiosphere-medical-2026/), FAU Erlangen-Nürnberg
+- *2026* Serving as **Area Chair for MICCAI 2026** and co-organising the [**2nd Agentic AI for Medicine (AgenticMed) Workshop**](https://agentic-ai-for-medicine.github.io/agentic-ai-for-medicine/) at MICCAI 2026
+- *2025.10* Invited lecture at Shenzhen University: *Medical Foundation Models and Generalist AI for Healthcare*
+
+</div>
+
+<details class='more' markdown='1'>
+<summary>Earlier news</summary>
+
+<div class='timeline' markdown='1'>
+
+- *2025.08* Joined UCL Mechanical Engineering as a Lecturer and founded [LUMA Lab](https://luma-lab.ai)
+- *2025.06* 🎉 Three papers are early accepted by *MICCAI 2025*
+- *2025.03* Invited as a Visiting Researcher at **Alan Turing Institute**
+- *2025.05* MeshHeart featured in [Imperial College London news](https://www.imperial.ac.uk/news/264275/ai-model-generates-personalised-heart-animations/)
+- *2025.03* 🎉 One paper is accepted by *Nature Machine Intelligence*
+- *2024.12* Awarded **Imperial College Research Fellowship**
+- *2024.11* Selected as a speaker for **TEDxRutlish** <img src='./images/logo/ted.png' style='width: 2em;'>  on December 19th, 2024.
+- *2024.10* Selected as a **DAAD AInet Fellow** for the **Postdoc-NeT-AI 11/2024 Virtual Networking Week** on AI for Science
+- *2024.10* Invited talk at Fudan University
+- *2024.10* Received funding as **PI** from the **Dame Julia Higgins Fund** 
+- *2024.10* Received funding as **Co-PI** from the **Dame Julia Higgins Fund**
+- *2024.09* One paper is released at [arxiv](https://arxiv.org/abs/2409.13825)
+- *2024.09* 🎉 One paper is accepted by *Nature Cardiovascular Research*
+- *2022.10* Joined BioMedIA <img src='./images/Biomedia_green_L1.png' style='width: 6em;'> , Imperial College London as a research associate in UK!
+
+</div>
+</details>
