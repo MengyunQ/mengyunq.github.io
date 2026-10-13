@@ -6,6 +6,42 @@ For a full list, please see my [Google Scholar](https://scholar.google.com/citat
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
+    <div class="badge">MICCAI 2026</div>
+    <img src='images/paper/cpagents.png' alt="CPAgents framework" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association](https://arxiv.org/abs/2606.28179) \\
+Zuoou Li\*, Wenlong Zhao\*, Kelly Yu\*, Weitong Zhang, Paul M. Matthews, Wenjia Bai, Bernhard Kainz, **Mengyun Qiao** \\
+*MICCAI 2026*
+
+- An analyse–propose–verify loop of specialised agents (Analyst, Proposer, Verifier) builds interpretable composite cardiac phenotypes.
+- Composite phenotypes strengthen disease association and classification over raw imaging features.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">MICCAI 2025</div>
+    <img src='images/paper/meshagents.png' alt="MESHAgents framework" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis](https://arxiv.org/abs/2507.03460) \\
+Weitong Zhang\*, **Mengyun Qiao**\*, Chengqi Zang, Steven Niederer, Paul M. Matthews, Wenjia Bai, Bernhard Kainz \\
+*MICCAI 2025*
+
+- MESHAgents: the first multi-agent system for imaging phenome-wide association studies, where domain-specialist LLM agents reach consensus on phenotype–factor associations.
+- Agent-discovered phenotypes match expert-selected ones in diagnostic performance across 38,309 UK Biobank participants.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
     <div class="badge">Nature Machine Intelligence</div>
     <img src='images/paper/meshheart.png' alt="sym" width="100%">
     </div>
@@ -59,13 +95,11 @@ For a full list, please see my [Google Scholar](https://scholar.google.com/citat
   </div>
 </div>
 
-## Recent Papers (2025–2026)
+## More Recent Papers
 
 <div class='pub-list' markdown='1'>
-- `MICCAI 2026` [CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association](https://arxiv.org/abs/2606.28179), Zuoou Li\*, Wenlong Zhao\*, Kelly Yu\*, Weitong Zhang, Paul M. Matthews, Wenjia Bai, Bernhard Kainz, **Mengyun Qiao** (corresponding)
 - `MIDL 2026 Short` CRAgents for Disease Modelling via Multi-Agent Critique and Refinement, Kelly Yu, Zuoou Li, Paul Matthews, Wenjia Bai, Bernhard Kainz, **Mengyun Qiao**
 - `arXiv 2026` [Learning a dynamic four-chamber shape model of the human heart for 95,695 UK Biobank participants](https://arxiv.org/abs/2603.28711), Qiang Ma, Qingjie Meng, Yicheng Wu, Shuo Wang, **Mengyun Qiao**, Steven Niederer, Declan P. O'Regan, Paul M. Matthews, Wenjia Bai
 - `MICCAI 2025` [Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction](https://doi.org/10.1007/978-3-032-05325-1_33), **Mengyun Qiao**\*, Jin Zheng\*, Weitong Zhang, Qiang Ma, Liu Li, Bernhard Kainz, Declan P. O'Regan, Paul M. Matthews, Steven Niederer, Wenjia Bai
-- `MICCAI 2025` [Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis](https://arxiv.org/abs/2507.03460), Weitong Zhang\*, **Mengyun Qiao**\*, Chengqi Zang, Steven Niederer, Paul M. Matthews, Wenjia Bai, Bernhard Kainz
 
 </div>

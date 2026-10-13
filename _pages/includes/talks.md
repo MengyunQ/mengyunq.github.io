@@ -2,6 +2,8 @@
 
 <div class='timeline' markdown='1'>
 
+- *2026.10* **Invited Talk**  
+  <span class='meta'>Fudan University, Shanghai</span>
 - *2026.07* **Invited Keynote**  
   <span class='meta'>AIBE Conference 2026, FAU Erlangen-Nürnberg</span>
 - *2026.06* **From Models to Discovery: Generative and Agentic AI for Cardiovascular Research**  
