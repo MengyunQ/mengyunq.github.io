@@ -14,6 +14,9 @@ main:
 
   - title: "Fundings"
     url: "/#-fundings"
+
+  - title: "Service"
+    url: "/#-academic-service"
   # - title: "Fundings"
   #   url: "/#-honors-and-awards"
 

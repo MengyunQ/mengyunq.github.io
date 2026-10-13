@@ -2,6 +2,7 @@ name: Get Citation Data
 
 on: 
  page_build: 
+ workflow_dispatch:
  schedule:
   - cron:  '0 8 * * *'
 
@@ -9,18 +10,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
+        cd ./google_scholar_crawler
+        pip install -r requirements.txt
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
+        # Google Scholar occasionally blocks requests from CI runners; retry a few times
+        for i in 1 2 3; do
+          python main.py && break
+          if [ "$i" = 3 ]; then exit 1; fi
+          echo "Attempt $i failed, retrying in 60s..."
+          sleep 60
+        done
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"

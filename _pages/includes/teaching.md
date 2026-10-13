@@ -1,8 +1,19 @@
 # 🎓 Teaching
 
-## 🤖🩺Machine Learning in Healthcare
+## University College London
+- *2026–27* **MECH0107 Data-Driven Methods for Engineers**, Module Tutor
+- *2025–26* **MECH0064 Group Design Project** (MSc), Supervisor & Assessor
+- *2025–26* **MECH0020 Individual Project**, Marker & Presentation Panel
+- *2025–* Year 1 Personal Tutor, Department of Mechanical Engineering
 
-The module **Machine Learning in Healthcare**, which explores the application of modern machine learning techniques to real-world healthcare problems. The course covers foundational concepts, practical tools, and ethical considerations in deploying AI in clinical settings.
+## Imperial College London
+- *2023–2025* **Deep Generative Models**, Demonstrator, Data Science Winter School
+- *2023–2025* **Generative AI and Image Analysis**, Instructor, Data Science Summer School
+- Teaching Assistant: Mathematics for Machine Learning, Signal Processing, Medical Imaging Technology
+
+## 🤖🩺 Resources: Machine Learning in Healthcare
+
+A curated reading list on applying modern machine learning to real-world healthcare problems, covering foundational concepts, practical tools, and ethical considerations in deploying AI in clinical settings.
 
 ### Topics Covered
 - Introduction to Machine Learning
@@ -31,7 +42,6 @@ The module **Machine Learning in Healthcare**, which explores the application of
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
 #### Papers & Reviews
-- [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182)
 - [Opportunities and obstacles for deep learning in biology and medicine](https://www.nature.com/articles/s41591-018-0316-z)
 
 ---

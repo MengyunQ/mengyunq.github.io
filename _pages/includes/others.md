@@ -15,9 +15,24 @@
 
 # 💬 Invited Talks
 
+- *2026.07*, AIBE Conference 2026, FAU Erlangen-Nürnberg: **Invited Keynote**
+- *2026.06*, Oxford Computer Science Conference with OxWoCS, University of Oxford (Keynote): **From Models to Discovery: Generative and Agentic AI for Cardiovascular Research**
+- *2026.06*, [BAIOSPHERE Medical 2026](https://baiomed.fau.de/2026/04/25/keynote-mengyun-qiao-ucl/), FAU Erlangen-Nürnberg (Keynote): **Beyond Digital Twins: Generative and Agentic Cardiac Modelling for Clinical Discovery**
+- *2025.10*, School of Biomedical Engineering, Shenzhen University: **Medical Foundation Models and Generalist AI for Healthcare**
+- *2025*, The Alan Turing Institute, London: **Invited Talk**
+- *2024.12*, TEDxRutlish, London: **The Next Era of Healthcare with Generative AI Technology**
 - *2024.10*, London Symposium 2024, IDEA Lab, Friedrich-Alexander University Erlangen-Nuremberg: **Personalised Generative Models for Unveiling Normal Heart Dynamics**
 - *2024.07*, Shenzhen University: **Deep Generative Modelling for Cardiac Anatomy**
 - *2023.09*, 1st CCF Digital Medicine Symposium (DMS), Suzhou: **Application and Optimization of Generative AI in Medical Multimodal Data**
 - *2020.05*, IEEE ISCAS (Virtual Talk): **Breast DCE-MRI Radiomics: A Robust Computer-Aided System Based on Reproducible BI-RADS Features**
 - *2019.07*, IEEE EMBC, Berlin: **Breast Calcification Detection Based on Radiofrequency Signals by Quantitative Ultrasound Multi-Parameter Fusion**
 - *2018.09*, STACOM Workshop, MICCAI, Granada: **Fully Automated Left Atrium Cavity Segmentation from 3D GE-MRI**
+
+# 🤝 Academic Service
+
+- **Area Chair**: MICCAI 2026, IEEE EMBC 2024
+- **Workshop Organiser**: [2nd Agentic AI for Medicine (AgenticMed) Workshop](https://agentic-ai-for-medicine.github.io/agentic-ai-for-medicine/), MICCAI 2026
+- **Grant Reviewer**: DAAD Postdoc-NeT-AI Programme (2026)
+- **Journal Reviewer**: IEEE TMI, IEEE TBME, IEEE JBHI, Medical Image Analysis, MELBA, Scientific Reports, ACM Computing Surveys
+- **Conference Reviewer**: MICCAI (2022–2025), AAAI
+- **Organiser**: Imperial Data Science Summer & Winter Schools (2023–2025)
