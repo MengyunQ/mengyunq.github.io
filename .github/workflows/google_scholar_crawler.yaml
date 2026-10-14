@@ -1,7 +1,6 @@
 name: Get Citation Data
 
 on: 
- page_build: 
  workflow_dispatch:
  schedule:
   - cron:  '0 8 * * *'
@@ -9,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
@@ -21,13 +21,19 @@ jobs:
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        # Google Scholar occasionally blocks requests from CI runners; retry a few times
-        for i in 1 2 3; do
-          python main.py && break
-          if [ "$i" = 3 ]; then exit 1; fi
-          echo "Attempt $i failed, retrying in 60s..."
-          sleep 60
+        # Google Scholar sometimes blocks CI runners. Try twice with a time cap;
+        # if both attempts fail, keep the previous citation data and end quietly
+        # (the next daily run will try again).
+        ok=0
+        for i in 1 2; do
+          if timeout 300 python main.py; then ok=1; break; fi
+          echo "Attempt $i failed"
+          if [ "$i" = 1 ]; then sleep 60; fi
         done
+        if [ "$ok" = 0 ]; then
+          echo "::warning::Google Scholar blocked the request; keeping previous citation data."
+          exit 0
+        fi
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
