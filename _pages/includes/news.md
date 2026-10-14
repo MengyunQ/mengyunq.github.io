@@ -3,7 +3,7 @@
 <div class='timeline' markdown='1'>
 
 - *2026.10* Invited speaker at **Fudan University**
-- *2026.07* Invited keynote at the **AIBE Conference 2026**, FAU Erlangen-Nürnberg
+- *2026.07* Invited keynote at the **AIBE Conference 2026**, FAU Erlangen-Nürnberg: *From Personalised Cardiac Digital Twins to Agentic Clinical Discovery*
 - *2026.07* Awarded the **UCL–Fudan Strategic Partner Fund 2026/27** as PI
 - *2026.06* 🎉 [CPAgents](https://arxiv.org/abs/2606.28179) is accepted by *MICCAI 2026*
 - *2026.06* Keynote speaker at the **Oxford Computer Science Conference** with OxWoCS, University of Oxford

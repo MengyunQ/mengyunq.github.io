@@ -4,8 +4,8 @@
 
 - *2026.10* **Invited Talk**  
   <span class='meta'>Fudan University, Shanghai</span>
-- *2026.07* **Invited Keynote**  
-  <span class='meta'>AIBE Conference 2026, FAU Erlangen-Nürnberg</span>
+- *2026.07* **From Personalised Cardiac Digital Twins to Agentic Clinical Discovery**  
+  <span class='meta'>AIBE Conference 2026, FAU Erlangen-Nürnberg (Keynote)</span>
 - *2026.06* **From Models to Discovery: Generative and Agentic AI for Cardiovascular Research**  
   <span class='meta'>Oxford Computer Science Conference with OxWoCS, University of Oxford (Keynote)</span>
 - *2026.06* **Beyond Digital Twins: Generative and Agentic Cardiac Modelling for Clinical Discovery**  
