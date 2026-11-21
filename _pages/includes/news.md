@@ -2,6 +2,7 @@
 
 <div class='timeline' markdown='1'>
 
+- *2026.11* Invited panellist at **UCLWES: Women Leading the Future of AI**, discussing women-driven innovation in AI with students and fellow panellists
 - *2026.10* Invited speaker at **Fudan University**
 - *2026.07* Invited keynote at the **AIBE Conference 2026**, FAU Erlangen-Nürnberg: *From Personalised Cardiac Digital Twins to Agentic Clinical Discovery*
 - *2026.07* Awarded the **UCL–Fudan Strategic Partner Fund 2026/27** as PI
